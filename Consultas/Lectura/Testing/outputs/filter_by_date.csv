@@ -1,0 +1,9 @@
+id, title, rating_imdb, rating_rt, rating_metacritic, box_office, date
+1, "Piratas del caribe", 1.5/10, 80%, 82/100, $249.266.373, 2003
+2, "Avatar", 9.2/10, 22%, 97/100, $3.896.157, 2009
+3, "El señor de los anillos", 5.2/10, 61%, 67/100, $884.036.623, 2001
+6, "Ironman", 7.3/10, 62%, 26/100, $29.304.366, 2010
+8, "Batman el caballero oscuro", 9.4/10, 90%, 98/100, $929.904.815, 2008
+9, "Saw", 5.4/10, 72%, 89/100, $423.341.960, 2004
+10, "King Kong", 2.3/10, 71%, 37/100, $538.693.834, 2005
+17, "High School Musical", 2.7/10, 83%, 51/100, $504.815.761, 2008

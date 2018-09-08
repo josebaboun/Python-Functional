@@ -1,0 +1,2 @@
+--------DCC MOVIE DATABASE--------
+WrongInput: take_movie_while, The Magic Stone, rating_imdb

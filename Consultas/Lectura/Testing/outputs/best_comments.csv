@@ -1,0 +1,5 @@
+id, title, rating_imdb, rating_rt, rating_metacritic, box_office, date
+3, "Forrest gum", 8.6/10, 41%, 84/100, $177.413.655, N/A
+1, "Piratas del caribe", 1.5/10, 80%, 82/100, $249.266.373, 2003
+2, "Avatar", 9.2/10, 22%, 97/100, $3.896.157, 2009
+0, "Titanic", 8.7/10, 88%, 90/100, $452.012.371, 1997

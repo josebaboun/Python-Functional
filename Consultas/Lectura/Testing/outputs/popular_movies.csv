@@ -1,0 +1,7 @@
+id, title, rating_imdb, rating_rt, rating_metacritic, box_office, date
+1, "Piratas del caribe", 1.5/10, 80%, 82/100, $249.266.373, 2003
+7, "Ironman", 7.3/10, 62%, 26/100, $29.304.366, 2010
+8, "El exorcista", 1.7/10, 57%, 65/100, $636.057.915, 1973
+11, "King Kong", 2.3/10, 71%, 37/100, $538.693.834, 2005
+13, "Terminator", 7.3/10, 48%, 29/100, $258.078.010, 1984
+18, "High School Musical", 2.7/10, 83%, 51/100, $504.815.761, 2008
