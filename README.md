@@ -1,5 +1,3 @@
-## Tarea 03
-
 ### Lectura del Archivo
 
 Todos los archivos correspondientes a lectura se encuentran en la carpeta `Consultas/Lectura`.
